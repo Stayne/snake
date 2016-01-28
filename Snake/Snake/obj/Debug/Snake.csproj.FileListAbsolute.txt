@@ -1,0 +1,6 @@
+C:\py3d\Snake\Snake\bin\Debug\Snake.exe.config
+C:\py3d\Snake\Snake\bin\Debug\Snake.exe
+C:\py3d\Snake\Snake\bin\Debug\Snake.pdb
+C:\py3d\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\py3d\Snake\Snake\obj\Debug\Snake.exe
+C:\py3d\Snake\Snake\obj\Debug\Snake.pdb
